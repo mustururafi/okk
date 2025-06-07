@@ -1,0 +1,7 @@
+Opened Amazon India.
+Found search bar.
+Typed 'boAt Airdopes 141' into search bar.
+Pressed Enter to search.
+
+The current price of 'boAt Airdopes 141' is: ₹1,299
+Browser closed.
